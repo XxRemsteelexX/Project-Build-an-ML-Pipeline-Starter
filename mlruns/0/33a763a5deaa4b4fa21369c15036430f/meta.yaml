@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/33a763a5deaa4b4fa21369c15036430f/artifacts
+end_time: 1722454205822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33a763a5deaa4b4fa21369c15036430f
+run_name: painted-auk-833
+run_uuid: 33a763a5deaa4b4fa21369c15036430f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722454150919
+status: 3
+tags: []
+user_id: yeblad

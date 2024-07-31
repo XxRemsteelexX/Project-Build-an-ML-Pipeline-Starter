@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b6cfe5b0a1d646558e8c490710c74639/artifacts
+end_time: 1722458924590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6cfe5b0a1d646558e8c490710c74639
+run_name: agreeable-turtle-207
+run_uuid: b6cfe5b0a1d646558e8c490710c74639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722458908058
+status: 4
+tags: []
+user_id: yeblad

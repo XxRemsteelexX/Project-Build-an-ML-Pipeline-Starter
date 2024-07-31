@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1b248cd7a8334927a06180e259b2e502/artifacts
+end_time: 1722459977275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b248cd7a8334927a06180e259b2e502
+run_name: luminous-sloth-798
+run_uuid: 1b248cd7a8334927a06180e259b2e502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722459626951
+status: 3
+tags: []
+user_id: yeblad

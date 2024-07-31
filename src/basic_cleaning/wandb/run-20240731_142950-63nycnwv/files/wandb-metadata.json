@@ -1,0 +1,78 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-07-31T19:29:50.986394",
+    "startedAt": "2024-07-31T19:29:50.299735",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "sample.csv:latest",
+        "--output_artifact",
+        "clean_sample.csv",
+        "--output_type",
+        "clean_sample",
+        "--output_description",
+        "Data with outliers and null values removed",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/home/yeblad/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py",
+    "codePath": "src/basic_cleaning/run.py",
+    "git": {
+        "remote": "https://github.com/XxRemsteelexX/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "root": "/home/yeblad/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-H5FEH0G",
+    "username": "yeblad",
+    "executable": "/home/yeblad/miniconda3/envs/mlflow-4178c8687fe54d70cf011b78c74846d94da50df6/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3499.996,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3499.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3499.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3499.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3499.996,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 19.05828857421875
+    },
+    "gpu": "NVIDIA GeForce GTX 970",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 970",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.592647552490234
+    }
+}

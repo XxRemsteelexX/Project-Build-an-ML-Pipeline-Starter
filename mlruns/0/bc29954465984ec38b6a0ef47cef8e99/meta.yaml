@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bc29954465984ec38b6a0ef47cef8e99/artifacts
+end_time: 1722455619511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc29954465984ec38b6a0ef47cef8e99
+run_name: adaptable-gnat-627
+run_uuid: bc29954465984ec38b6a0ef47cef8e99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722455515390
+status: 3
+tags: []
+user_id: yeblad

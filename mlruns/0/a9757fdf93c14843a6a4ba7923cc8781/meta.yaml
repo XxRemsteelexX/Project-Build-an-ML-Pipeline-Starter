@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a9757fdf93c14843a6a4ba7923cc8781/artifacts
+end_time: 1722452537140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9757fdf93c14843a6a4ba7923cc8781
+run_name: shivering-wasp-544
+run_uuid: a9757fdf93c14843a6a4ba7923cc8781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722452535819
+status: 4
+tags: []
+user_id: yeblad

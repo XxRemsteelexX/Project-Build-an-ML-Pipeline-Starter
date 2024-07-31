@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0344fbcd7e854116a6f0413e3be89853/artifacts
+end_time: 1722452973173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0344fbcd7e854116a6f0413e3be89853
+run_name: masked-duck-662
+run_uuid: 0344fbcd7e854116a6f0413e3be89853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722452971842
+status: 4
+tags: []
+user_id: yeblad

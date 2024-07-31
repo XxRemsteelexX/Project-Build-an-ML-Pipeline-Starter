@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/92c19bf9f0b748518d0a92c1e596dc1d/artifacts
+end_time: 1722457957833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92c19bf9f0b748518d0a92c1e596dc1d
+run_name: traveling-newt-516
+run_uuid: 92c19bf9f0b748518d0a92c1e596dc1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722457942303
+status: 4
+tags: []
+user_id: yeblad

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9a0467140ba24e9ba785378d714243bd/artifacts
+end_time: 1722459976789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a0467140ba24e9ba785378d714243bd
+run_name: mysterious-bat-157
+run_uuid: 9a0467140ba24e9ba785378d714243bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722459871606
+status: 3
+tags: []
+user_id: yeblad

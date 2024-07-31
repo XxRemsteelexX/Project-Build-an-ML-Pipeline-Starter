@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/595118ef827b4a21ac3a9d0f582fa758/artifacts
+end_time: 1722454798102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 595118ef827b4a21ac3a9d0f582fa758
+run_name: monumental-calf-128
+run_uuid: 595118ef827b4a21ac3a9d0f582fa758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722454743060
+status: 3
+tags: []
+user_id: yeblad

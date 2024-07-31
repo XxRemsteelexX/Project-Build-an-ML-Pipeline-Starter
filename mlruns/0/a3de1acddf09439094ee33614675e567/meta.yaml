@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a3de1acddf09439094ee33614675e567/artifacts
+end_time: 1722462556596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3de1acddf09439094ee33614675e567
+run_name: languid-loon-644
+run_uuid: a3de1acddf09439094ee33614675e567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722462408548
+status: 3
+tags: []
+user_id: yeblad

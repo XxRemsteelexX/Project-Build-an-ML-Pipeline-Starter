@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b2e3e71406f4437390806747d93ae196/artifacts
+end_time: 1722457958197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2e3e71406f4437390806747d93ae196
+run_name: intrigued-koi-115
+run_uuid: b2e3e71406f4437390806747d93ae196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722457938862
+status: 4
+tags: []
+user_id: yeblad

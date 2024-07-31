@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eae30f5b250a437f95b7c83e956769cb/artifacts
+end_time: 1722455619754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eae30f5b250a437f95b7c83e956769cb
+run_name: loud-bee-710
+run_uuid: eae30f5b250a437f95b7c83e956769cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722455506432
+status: 3
+tags: []
+user_id: yeblad

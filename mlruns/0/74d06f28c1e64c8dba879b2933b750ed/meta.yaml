@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/74d06f28c1e64c8dba879b2933b750ed/artifacts
+end_time: 1722452448379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74d06f28c1e64c8dba879b2933b750ed
+run_name: luminous-hound-422
+run_uuid: 74d06f28c1e64c8dba879b2933b750ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722452446516
+status: 4
+tags: []
+user_id: yeblad

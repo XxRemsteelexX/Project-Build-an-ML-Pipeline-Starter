@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/529c8eab266d405189c5e54e5950d872/artifacts
+end_time: 1722453704914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 529c8eab266d405189c5e54e5950d872
+run_name: luxuriant-hound-32
+run_uuid: 529c8eab266d405189c5e54e5950d872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722453684821
+status: 3
+tags: []
+user_id: yeblad

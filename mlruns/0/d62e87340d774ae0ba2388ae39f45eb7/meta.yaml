@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d62e87340d774ae0ba2388ae39f45eb7/artifacts
+end_time: 1722462556169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d62e87340d774ae0ba2388ae39f45eb7
+run_name: nosy-duck-931
+run_uuid: d62e87340d774ae0ba2388ae39f45eb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722462431888
+status: 3
+tags: []
+user_id: yeblad

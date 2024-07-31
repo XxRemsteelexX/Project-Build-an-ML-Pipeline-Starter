@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2b8b38684a0e4f458837b2a6a5d20db2/artifacts
+end_time: 1722453704727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b8b38684a0e4f458837b2a6a5d20db2
+run_name: invincible-lynx-843
+run_uuid: 2b8b38684a0e4f458837b2a6a5d20db2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722453693697
+status: 3
+tags: []
+user_id: yeblad

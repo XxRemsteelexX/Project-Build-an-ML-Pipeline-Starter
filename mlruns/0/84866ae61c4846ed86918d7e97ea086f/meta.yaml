@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/84866ae61c4846ed86918d7e97ea086f/artifacts
+end_time: 1722453524310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84866ae61c4846ed86918d7e97ea086f
+run_name: hilarious-shrew-397
+run_uuid: 84866ae61c4846ed86918d7e97ea086f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722453510813
+status: 3
+tags: []
+user_id: yeblad

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e2c29ea0848d4acdb831971bfa17eee5/artifacts
+end_time: 1722457428336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2c29ea0848d4acdb831971bfa17eee5
+run_name: sedate-finch-244
+run_uuid: e2c29ea0848d4acdb831971bfa17eee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722457413778
+status: 4
+tags: []
+user_id: yeblad

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c094c38b5c7f49c88cc7cc9e962b4d44/artifacts
+end_time: 1722459871442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c094c38b5c7f49c88cc7cc9e962b4d44
+run_name: adorable-donkey-247
+run_uuid: c094c38b5c7f49c88cc7cc9e962b4d44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722459799011
+status: 3
+tags: []
+user_id: yeblad

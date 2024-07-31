@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/402a89bb3ce34e7a9793185b870f550b/artifacts
+end_time: 1722459798835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 402a89bb3ce34e7a9793185b870f550b
+run_name: merciful-crane-204
+run_uuid: 402a89bb3ce34e7a9793185b870f550b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722459693879
+status: 3
+tags: []
+user_id: yeblad

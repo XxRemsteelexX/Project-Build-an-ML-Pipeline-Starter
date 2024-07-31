@@ -1,0 +1,77 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-07-31T19:39:50.755963",
+    "startedAt": "2024-07-31T19:39:49.829996",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv",
+        "--csv",
+        "clean_sample.csv:latest",
+        "--ref",
+        "clean_sample.csv:reference",
+        "--kl_threshold",
+        "0.2",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/home/yeblad/miniconda3/envs/mlflow-bf7ff5e69fc3c29926eb3cd6e32cdb52bd77a200/bin/pytest",
+    "git": {
+        "remote": "https://github.com/XxRemsteelexX/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "root": "/home/yeblad/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-H5FEH0G",
+    "username": "yeblad",
+    "executable": "/home/yeblad/miniconda3/envs/mlflow-bf7ff5e69fc3c29926eb3cd6e32cdb52bd77a200/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3499.996,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3499.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3499.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3499.996,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3499.996,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 19.345169067382812
+    },
+    "gpu": "NVIDIA GeForce GTX 970",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 970",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.592647552490234
+    }
+}

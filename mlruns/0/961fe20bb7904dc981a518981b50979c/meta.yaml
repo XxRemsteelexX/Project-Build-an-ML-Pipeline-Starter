@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/961fe20bb7904dc981a518981b50979c/artifacts
+end_time: 1722459693712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 961fe20bb7904dc981a518981b50979c
+run_name: persistent-finch-860
+run_uuid: 961fe20bb7904dc981a518981b50979c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722459630206
+status: 3
+tags: []
+user_id: yeblad

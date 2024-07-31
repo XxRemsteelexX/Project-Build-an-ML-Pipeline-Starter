@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b379e35f947a4ffbb0950d5f12b3d06b/artifacts
+end_time: 1722452607097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b379e35f947a4ffbb0950d5f12b3d06b
+run_name: lyrical-hog-145
+run_uuid: b379e35f947a4ffbb0950d5f12b3d06b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722452605730
+status: 4
+tags: []
+user_id: yeblad

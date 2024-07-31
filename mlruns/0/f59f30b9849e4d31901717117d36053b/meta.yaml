@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f59f30b9849e4d31901717117d36053b/artifacts
+end_time: 1722459366156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f59f30b9849e4d31901717117d36053b
+run_name: bald-lamb-508
+run_uuid: f59f30b9849e4d31901717117d36053b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722459349908
+status: 4
+tags: []
+user_id: yeblad

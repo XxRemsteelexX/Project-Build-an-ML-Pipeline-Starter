@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yeblad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/57e202041faf4365870e2f85bcd0cbd4/artifacts
+end_time: 1722458924208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57e202041faf4365870e2f85bcd0cbd4
+run_name: illustrious-mink-683
+run_uuid: 57e202041faf4365870e2f85bcd0cbd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722458911278
+status: 4
+tags: []
+user_id: yeblad
